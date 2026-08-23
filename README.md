@@ -1,4 +1,4 @@
-# 📊 [Project Name] - Data Analysis Dashboard
+# 📊 Customer behavior - Data Analysis Dashboard
 
 ## 📌 Project Overview
 Is project ka aim [problem/objective] ko solve karna hai.  
