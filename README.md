@@ -1,5 +1,7 @@
 # Customer behavior - Data Analytics Project
 
+![Alt Text](Customer-behavior-Dashboard.png)
+
 ## Overview
 
 This project demonstrates an end-to-end **Data Analytics workflow**, starting from raw data and ending with business insights and visual reporting.
